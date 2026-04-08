@@ -1,6 +1,6 @@
 # 🚀 AI TechFest Management System
 
-An AI-powered cloud-based system built using Google Cloud that automates event management and provides intelligent responses to user queries.
+“We built a full-stack AI chatbot with a ChatGPT-like interface deployed on Google Cloud Run with intelligent fallback handling.”
 
 ---
 
